@@ -1,0 +1,101 @@
+-                                 
+void AlgorithmHandle(int, T) [with T = int]
+Execution time: 50690 microseconds
+Frequency: 40 MHz.
+----------------------------------
+
+-------------------------------- ^
+void AlgorithmHandle(int, T) [with T = int]
+Execution time: 24956 microseconds
+Frequency: 80 MHz.
+----------------------------------
+
+-------------------------------- ^
+void AlgorithmHandle(int, T) [with T = int]
+Execution time: 12411 microseconds
+Frequency: 160 MHz.
+----------------------------------
+
+----------------------------------
+void AlgorithmHandle(int, T) [with T = int]
+Execution time: 8147 microseconds
+Frequency: 240 MHz.
+----------------------------------
+
+--------------------------------
+void AlgorithmHandle(int, T) [with T = float]
+Execution time: 50747 microseconds
+Frequency: 40 MHz.
+----------------------------------
+
+-------------------------------- ^
+void AlgorithmHandle(int, T) [with T = float]
+Execution time: 24959 microseconds
+Frequency: 80 MHz.
+----------------------------------
+
+-------------------------------- ^
+void AlgorithmHandle(int, T) [with T = float]
+Execution time: 24959 microseconds
+Frequency: 80 MHz.
+----------------------------------
+
+-------------------------------- ^
+void AlgorithmHandle(int, T) [with T = float]
+Execution time: 12414 microseconds
+Frequency: 160 MHz.
+----------------------------------
+
+----------------------------------
+void AlgorithmHandle(int, T) [with T = float]
+Execution time: 8149 microseconds
+Frequency: 240 MHz.
+----------------------------------
+
+---------------------------------
+void AlgorithmHandle(int, T) [with T = double]
+Execution time: 184521 microseconds
+Frequency: 40 MHz.
+----------------------------------
+
+--------------------------------y  
+void AlgorithmHandle(int, T) [with T = double]
+Execution time: 90254 microseconds
+Frequency: 80 MHz.
+----------------------------------
+
+--------------------------------- 
+void AlgorithmHandle(int, T) [with T = double]
+Execution time: 44707 microseconds
+Frequency: 160 MHz.
+----------------------------------
+
+----------------------------------
+void AlgorithmHandle(int, T) [with T = double]
+Execution time: 29605 microseconds
+Frequency: 240 MHz.
+----------------------------------
+
+-------------------------------󘞘  
+void AlgorithmHandle(int, T) [with T = char]
+Execution time: 50633 microseconds
+Frequency: 40 MHz.
+----------------------------------
+
+-------------------------------- ^
+void AlgorithmHandle(int, T) [with T = char]
+Execution time: 24944 microseconds
+Frequency: 80 MHz.
+----------------------------------
+
+-------------------------------- ^
+void AlgorithmHandle(int, T) [with T = char]
+Execution time: 12405 microseconds
+Frequency: 160 MHz.
+----------------------------------
+
+----------------------------------
+void AlgorithmHandle(int, T) [with T = char]
+Execution time: 8143 microseconds
+Frequency: 240 MHz.
+----------------------------------
